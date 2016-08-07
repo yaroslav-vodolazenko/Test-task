@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite1]">
+  <test name="TestPage(failed)">
+    <classes>
+      <class name="tests.CreatingNewAccount">
+        <methods>
+          <include name="initEnv"/>
+          <include name="Test2BusinessAccount"/>
+          <include name="evnSgut"/>
+        </methods>
+      </class> <!-- tests.CreatingNewAccount -->
+    </classes>
+  </test> <!-- TestPage(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

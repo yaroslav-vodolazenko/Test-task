@@ -1,0 +1,14 @@
+2016-08-07 23:22:30 LogForTest [INFO] INFO: "Fill all fields and have next alert: 
+Please complete the following required fields:
+ - First Name
+ - Business Name
+ - Business Number
+"
+2016-08-07 23:22:33 LogForTest [INFO] INFO: "Fill all fields, chose business and have next alert: 
+Please complete the following required fields:
+ - First Name
+"
+2016-08-07 23:22:40 LogForTest [INFO] INFO: "Fill all fields and have next alert: 
+Please complete the following required fields:
+ - First Name
+"

@@ -1,0 +1,10 @@
+1. FirstName input disappears on password input.
+2. Business Name and Business Number are hidden at the begining
+3. City come before Country and there is no verification for belonging to the country 
+4. Germany and Italy should be at the top of the list as the have a drop-down menu for the State filed 
+5. '-----' can be secected as Country
+5. No Postcode/Zip verification for belonging to the country 
+6. Min. 6 characters for username and password 
+7. No verification for correct email
+8. For all fielsds there is no verivication for spaces, special symbols, latin characters
+
